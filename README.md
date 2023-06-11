@@ -105,3 +105,11 @@ Xanadu
 Yakitori
 Zoe
 ```
+
+## ŠJ”­ŠÂ‹«
+
+- Microsoft Visual Studio Community 2019
+    - Version 16.11.26
+- C#
+- Console Application
+- .Net5
